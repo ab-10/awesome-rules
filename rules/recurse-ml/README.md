@@ -13,7 +13,7 @@ The [release blogpost](https://blog.recurse.ml/rules) provides more details on h
 
 ### rml (CLI)
 
-Get started with these rules using the CLI tool:
+Get started with these rules using the [CLI tool](https://docs.recurse.ml/rml/):
 
 1. **Install rml**: Run the installation command:
    ```bash
@@ -35,7 +35,7 @@ Get started with these rules using the CLI tool:
 
 Get started with these rules using the GitHub App:
 
-1. **Install GitHub App**: Install the [Recurse ML GitHub App](https://github.com/apps/recurse-ml) on your repository.
+1. **Install GitHub App**: Install the [Recurse ML GitHub App](https://github.com/marketplace/recurse-ml) on your repository.
 
 2. **Create configuration file**: Add a `.recurseml.yaml` file to your project root with the rules directory specified:
    ```yaml
